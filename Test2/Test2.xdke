@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1488058055710,
+        "modified": 1488058055710,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1488058055711,
+        "modified": 1488058055711,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1488058055713,
+        "modified": 1488058055713,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1488072588543,
+        "modified": 1488072588543,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1488058055710,
+        "modified": 1488058055710,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1488058055715,
+        "modified": 1488058055715,
+        "seen": true,
+        "name": "README.md"
+      },
+      "Test2.xdk": {
+        "previousModTime": 1488058056025,
+        "modified": 1488058056025,
+        "seen": true,
+        "name": "Test2.xdk"
+      },
+      "Test2.xdke": {
+        "previousModTime": 1488072551291,
+        "modified": 1488072551291,
+        "seen": true,
+        "name": "Test2.xdke"
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1488058055725,
+        "modified": 1488058055725,
+        "seen": true,
+        "name": "utl/cfg-app-platform.js"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1488058055714,
+        "modified": 1488058055714,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1488058055931,
+        "modified": 1488058055931,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "Test3": {
+        "previousModTime": 1488060228194,
+        "modified": 1488060228194,
+        "seen": true,
+        "name": "Test3"
+      },
+      "xdk/Test3.js": {
+        "previousModTime": 1488060743820,
+        "modified": 1488060743820,
+        "seen": true,
+        "name": "xdk/Test3.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1488072601987
+      }
+    }
+  }
+}
